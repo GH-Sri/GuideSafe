@@ -1,0 +1,13 @@
+name: Solve4Safety
+title: Solve4Safety
+username:
+account: houseguides
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1796758
+bundleId: 2793560
+url: https://houseguides.shinyapps.io/Solve4Safety/
+when: 1581463609.40264
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: install_check.R|loadr.txt|README.txt|run.R|0 - archive/updatedDashboard.R
